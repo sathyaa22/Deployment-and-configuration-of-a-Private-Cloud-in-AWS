@@ -22,61 +22,61 @@ Availability Zones, or AWS Regions.
 
 1. Plan Your VPC:
 
- ● Determine your needs:
+   ● Determine your needs:
 Define your use case, including application requirements, security needs, and
 compliance standards.
 
- ● Plan IP address ranges:
+   ● Plan IP address ranges:
 Choose appropriate IP address ranges for your VPC and subnets to avoid conflicts.
 
- ● Select Availability Zones:
+   ● Select Availability Zones:
 Decide which Availability Zones (AZs) you'll use for your resources, considering
 redundancy and performance.
 
- ● Plan internet connectivity:
+   ● Plan internet connectivity:
 Determine if you need public internet access and how to configure it.
 
- ● Define security:
+   ● Define security:
 Plan your security groups, network ACLs, and access controls to ensure a secure
 environment.
 
 2. Create Your VPC:
  
- •	Sign in to AWS Management Console: Access the VPC console and navigate to the VPC dashboard.
+   •	Sign in to AWS Management Console: Access the VPC console and navigate to the VPC dashboard.
 
- •	 Choose "Create VPC": Initiate the VPC creation process.
+   •	 Choose "Create VPC": Initiate the VPC creation process.
 
- •	Configure VPC details: Enter the VPC name, CIDR block, Availability Zones, and	other necessary settings.
+   •	Configure VPC details: Enter the VPC name, CIDR block, Availability Zones, and	other necessary settings.
 
- •	Create subnets: Define subnets within your VPC to isolate different parts of your	network.
+   •	Create subnets: Define subnets within your VPC to isolate different parts of your	network.
 
- •	Create route tables: Specify how traffic is routed within and outside the VPC.
+   •	Create route tables: Specify how traffic is routed within and outside the VPC.
 
- •	 Create security groups: Define access control rules for your resources.
+   •	 Create security groups: Define access control rules for your resources.
 
 3. Deploying Resources:
 
- •	Launch EC2 instances: Create and launch virtual machines within your VPC.
+   •	Launch EC2 instances: Create and launch virtual machines within your VPC.
 
- •	 Set up RDS instances: Deploy databases for your applications.
+   •	 Set up RDS instances: Deploy databases for your applications.
 
- •	Configure networking: Connect your resources to the appropriate subnets, security
+   •	Configure networking: Connect your resources to the appropriate subnets, security
 groups, and route tables.
 
- •	Deploy other AWS services: Integrate other services like S3 for storage and Lambda for serverless computing.
+   •	Deploy other AWS services: Integrate other services like S3 for storage and Lambda for serverless computing.
 
 4.Managing and Monitoring:
 
- •	Use AWS CloudWatch: Monitor your VPC and resources for performance and
+   •	Use AWS CloudWatch: Monitor your VPC and resources for performance and
 health.
 
- •	Configure logging and auditing: Track access and activity within your VPC for
+   •	Configure logging and auditing: Track access and activity within your VPC for
 security and compliance.
 
- •	Implement security best practices: Regularly review and update your security
+   •	Implement security best practices: Regularly review and update your security
 configuration.
 
- •	Scale and adjust as needed: Adjust your VPC infrastructure to meet changing
+   •	Scale and adjust as needed: Adjust your VPC infrastructure to meet changing
 demands.
 
 ## Snap Shots:
