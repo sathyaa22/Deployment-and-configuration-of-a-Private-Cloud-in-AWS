@@ -65,7 +65,8 @@ groups, and route tables.
 
    •	Deploy other AWS services: Integrate other services like S3 for storage and Lambda for serverless computing.
 
-4.Managing and Monitoring:
+   
+4. Managing and Monitoring:
 
    •	Use AWS CloudWatch: Monitor your VPC and resources for performance and
 health.
