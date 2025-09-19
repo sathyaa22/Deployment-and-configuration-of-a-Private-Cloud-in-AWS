@@ -1,6 +1,9 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
+### NAME: SATHYAA R
+### REG NO: 212223100052
+
 Aim:
 To set up of a Private Cloud  in AWS.
          Setting up of a private cloud in AWS:
@@ -56,58 +59,45 @@ demands.
 
 Snap Shot:
 
- 
+<img width="956" height="566" alt="sn" src="https://github.com/user-attachments/assets/af18cdb5-fb81-476a-a1e4-1c36ddb79a0f" />
 
 Snapshot 1: Create VPC
- 
+
+<img width="971" height="494" alt="1" src="https://github.com/user-attachments/assets/424a0501-2e78-4e6c-b38c-da1ae5eb83a6" />
+
 Snapshot 2: Configuring Subnets
  
+<img width="971" height="555" alt="2" src="https://github.com/user-attachments/assets/dfbbfd20-97cc-4ac5-9d03-52696738dd11" />
 
 Snapshot 3: Configure Subnets
  
+<img width="1008" height="554" alt="3" src="https://github.com/user-attachments/assets/e31b6b78-d9d5-429e-864c-10676ff03450" />
 
 Snapshot 4: Setting Internet gateway
 
- 
+<img width="1041" height="629" alt="4" src="https://github.com/user-attachments/assets/6995c098-1f55-4bac-9d66-9fbe0fd39d33" />
+
 Snapshot 5: Setting Internet gateway
 
-
-
- 
+<img width="1042" height="562" alt="5" src="https://github.com/user-attachments/assets/6c0188d1-5ece-4305-b278-c24afd479a18" />
 
 Snapshot 6: Setting Internet gateway
 
- 
+<img width="993" height="636" alt="6" src="https://github.com/user-attachments/assets/4f9b27ac-174e-4ef2-9cfa-bbdefabebfd0" />
+
 Snapshot 7: Creating route table
 
- 
+<img width="995" height="565" alt="7" src="https://github.com/user-attachments/assets/eab25dcc-d34c-446f-8650-69ffba001593" />
 
 Snapshot 8: Configuring route table
 
+<img width="1002" height="552" alt="8" src="https://github.com/user-attachments/assets/0b46817c-4fe2-4975-992e-98836f737906" />
 
- 
 Snapshot 9: Editing routes
 
- 
+<img width="978" height="517" alt="9" src="https://github.com/user-attachments/assets/1aed4998-7a09-41de-9d24-e5dfc70eb003" />
+
 Snapshot 10: Creating route table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Result:
 Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
