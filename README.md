@@ -1,8 +1,7 @@
-# Deployment-and-configuration-of-a-Private-Cloud-in-AWS
-Ex.4 Deployment and configuration of a Private Cloud  in AWS
+# Ex - 4 : Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-### NAME: SATHYAA R
-### REG NO: 212223100052
+#### NAME: SATHYAA R
+#### REG NO: 212223100052
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
